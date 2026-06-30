@@ -9,5 +9,7 @@ version.
 In-game: If you set your username to something like "*!()#*()@!!@#(*" or a name with spaces "user name" singleplayer and (cracked) multiplayer will not work. In singleplayer, worlds will either not create, if you join an existing world it will not save, and will softlock you until you end javaw.exe
 # Info
 This file is open-source, although you may edit and archive this file but you will need to provide proper credit to @lsfadev on GitHub.
+
+Amazing alternative to Prism or SK launcher as they are very front-end and take up more storage then needed, PyMC is perfect for work or school where internet censorship is enforced.
 # Inquiry
 for updates or feedback use the issues tab OR @meowlenthusiast67 on discord.
