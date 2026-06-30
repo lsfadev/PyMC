@@ -5,8 +5,7 @@ To setup, simply download the .py file (must have python installed, go to (https
 You can either get the download from the releases page or simply download the entire projects source code because they both do the exact thing </3
 # Troubleshooting
 Launcher: If it instantly closes you may be out of storage or an imcompatible python version, once again go to the python download and proceed from there. All packages are built within python itself, therefor if it is a package issue you are infact on an imcompatible
-version.
-In-game: If you set your username to something like "*!()#*()@!!@#(*" or a name with spaces "user name" singleplayer and (cracked) multiplayer will not work. In singleplayer, worlds will either not create, if you join an existing world it will not save, and will softlock you until you end javaw.exe
+version.<br>In-game: If you set your username to something like "*!()#*()@!!@#(*" or a name with spaces "user name" singleplayer and (cracked) multiplayer will not work. In singleplayer, worlds will either not create, if you join an existing world it will not save, and will softlock you until you end javaw.exe
 
 edit: usernames longer than 16 will do the same as you do create an integrated server when starting singleplayer so minecraft will do minecraft:hello
 # Info
